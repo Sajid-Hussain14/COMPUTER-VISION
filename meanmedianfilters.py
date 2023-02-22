@@ -94,3 +94,6 @@ plt.xlim([-0.5, 255.5])
 plt.title('OUTPUT2 HISTOGRAM')
 plt.savefig("output2_his.png")
 plt.show()
+
+
+##################*@SAJIDHUSSAINGANIE##############################################################################
